@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://yassen2012ya.github.io/LinkHub.github.io/sitemap.xml
